@@ -1,19 +1,1 @@
-Question 1.
 
-Reply:  I spent about 3 hours in total on this QAP. The time was spent learning how to navigate both the psql and pgAdmin tools, familiarizing myself with the SQL syntax and brushing up on my ERD table relationship understanding from the first semester.
-
-Question 2.
-
-Reply:  I utilized class lectures and PowerPoint, I utilized postgresqltutorial.com, postgresql.org, w3schools.com, and pgadmin.org.
-
-Question 3.
-
-Reply: Not at this time.
-
-Question 4.
-
-Reply: Peter and Roy helped me with a mac issue I had when trying to assess psql.
-
-Question 5.
-
-Overall, I found the QAP to be moderate in difficulty. I had never used SQL before and it required reading, familiarizing and lots of referencing in order to complete the project. I found the initial issue with my mac not opening the server when using psql resulted in a deeper learning and understanding of these tools following some digging. After going through the learning resources provided and having this time to practice, I feel confident to solve a similar problem of the same techniques in the future. 
